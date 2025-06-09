@@ -9,3 +9,7 @@ Além dos botões como "Pamonha" e "Forró". Clica neles pra soltar mais confete
 
 Esse projeto um jeito leve e divertido de passar o tempo, testar seus reflexos e sentir a energia boa de uma festa junina. O jogo celebra a importância das festas beneficentes, que são tão importantes pra nossa comunidade.
 Elas nos unem, fortalecem os laços entre o campo e a cidade e mostram a beleza da nossa cultura. Ao jogar, você se sente parte de tudo isso, mesmo que seja de mentirinha!
+
+Notas e Créditos: 
+Utilização de emojis: https://pt.piliapp.com/emoji/list/
+I.A utilizadas para ajustar alguns bugs do jogo: Chat GPT e Gemini.
